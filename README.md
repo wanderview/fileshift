@@ -1,10 +1,12 @@
-# fileshift
+# FileShift
 
 A node.js project to translate between various remote file system protocols.
 
 A work-in-progress.  Currently provides some limited NetBIOS support.  The
 current focus is on implementing SMB.  To follow along with the the latest
 changes, see the [node-smb][] project.
+
+Feedback, suggestions, and collaboration welcome!
 
 ## netbios-fwd
 
